@@ -19,6 +19,8 @@ Add the string `https://raw.githubusercontent.com/ArminJo/DigistumpArduino/maste
 
 Now you can download the board configuration `Tools -> Boards -> Boards Manager`. Select contributed and install `DigiStump AVR Boards` v1.7.5.
 
+Select the DigiSpark board from `Digistump AVR Boards -> Digispark`
+
 If you get an error about micronucleus then install it from [Github](https://github.com/micronucleus/micronucleus/releases) and add it to the specified path in the error message.
 
 ## Examples
