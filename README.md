@@ -23,6 +23,8 @@ Select the DigiSpark board from `Digistump AVR Boards -> Digispark`
 
 If you get an error about micronucleus then install it from [Github](https://github.com/micronucleus/micronucleus/releases) and add it to the specified path in the error message.
 
+If you get x86 / ARM error on MacOS with Mac Silicon, put the `micronucleus` binary in `~/Library/Arduino15/packages/digistump/tools/micronucleus/2.6`.
+
 ## Examples
 
 Example scripts can be found in [this](https://github.com/CedArctic/DigiSpark-Scripts) Github repository.
