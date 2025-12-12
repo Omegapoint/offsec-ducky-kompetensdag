@@ -1,4 +1,4 @@
-# Kompetensdag Gothenburg 2022-04-29
+# Kompetensdag Stockholm 2025-12-12
 
 In this kompetensdag we will try to create and program our own [Rubber Duckys](https://shop.hak5.org/products/usb-rubber-ducky-deluxe). As these are expensive and hard to come by we will create our own.
 
